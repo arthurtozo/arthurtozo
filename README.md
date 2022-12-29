@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @arthurtozo
-- 👀 I’m interested in HTML5,CSS3,JS,PYTHON.
-- 🌱 I’m currently learning HTML5 E CSS3
-- 💞️ I’m looking to collaborate on front-end
-- 📫 How to reach me https://www.linkedin.com/in/arthur-tozo-vieira-9b22a6129/
+- 👋 Prazer, meu nome é Arthur Tozo.
+- 👀 Tenho interesse em HTML5,CSS3,JS, SQL.
+- 👍 Eu pretendo aprofundar os meus conhecimentos para ser um ótimo profissional.
 
-<!---
-arthurtozo/arthurtozo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<div>
+  <a href="https://github.com/arthurtozo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurtozo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurtozo&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Arthur-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Arthur-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+##
+
+<div> 
+  <a href="https://www.linkedin.com/in/arthur-tozo-vieira-9b22a6129/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
