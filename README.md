@@ -9,9 +9,6 @@
             font-size: 2em;
         }
     </style>
-
-
-        <body>
             
             <p>  👋 Hello, I’m Arthur.
             <p>  👀 I’m interested in HTML5,CSS3,JS.
@@ -19,5 +16,5 @@
             <p>    💞️ I’m looking to collaborate on development
             <p>    📫 How to reach me https://www.linkedin.com/in/arthur-tozo-vieira-9b22a6129/
             
-        </body>
+    
 
