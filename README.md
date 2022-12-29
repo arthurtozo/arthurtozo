@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arthur.
 - 👀 I’m interested in HTML5,CSS3,JS.
 - 🌱 I’m currently learning HTML5 E CSS3
-- 💞️ I’m looking to collaborate on front-end
+- 💞️ I’m looking to collaborate on development
 - 📫 How to reach me https://www.linkedin.com/in/arthur-tozo-vieira-9b22a6129/
 
 <!---
