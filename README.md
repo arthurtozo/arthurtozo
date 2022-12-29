@@ -9,7 +9,7 @@
             font-size: 2em;
         }
     </style>
-</head>
+
 
         <body>
             
@@ -20,5 +20,4 @@
             <p>    📫 How to reach me https://www.linkedin.com/in/arthur-tozo-vieira-9b22a6129/
             
         </body>
-</html>
 
