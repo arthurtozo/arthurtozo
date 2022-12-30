@@ -1,7 +1,5 @@
 - 👋 Prazer, meu nome é Arthur Tozo.
-- 👀 Tenho interesse em HTML5,CSS3, JS, SQL.
-
-
+- 👀 Tenho interesse em HTML5,CSS3, JS, Angula, SQL.
 
 <div>
   <a href="https://github.com/arthurtozo">
