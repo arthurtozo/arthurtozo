@@ -12,8 +12,3 @@
 </div>
 
 ##
-
-<div> 
-  <a href="https://www.linkedin.com/in/arthur-tozo-vieira-9b22a6129/"> <img align="center" alt="Arthur-Js" height="30" width="40" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" target="_blank"></a> 
- 
-</div>
