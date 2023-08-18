@@ -6,7 +6,7 @@
   
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?arthurtozo=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurtozo&size_weight=0.5&count_weight=0.5)
 
 ### Linguagens de programação e tecnologias
 <div style="display: inline_block"><br>
